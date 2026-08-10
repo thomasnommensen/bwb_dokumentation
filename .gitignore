@@ -1,0 +1,12 @@
+# Word-Sperrdateien und temporaere Dateien
+~$*
+*.tmp
+*.bak
+
+# Betriebssystem
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Aufraeum-Ordner dieser Session
+_to_delete/

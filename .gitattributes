@@ -1,0 +1,7 @@
+# Word-Dokumente sind Binaerdateien
+*.docx binary
+*.dotx binary
+*.doc  binary
+
+# Textdateien mit LF im Repository
+*.md text eol=lf
