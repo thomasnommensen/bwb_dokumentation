@@ -1,0 +1,1416 @@
+[
+  {
+    "guid": "83314FD3A309416182BBDFF5D8BFA6A8",
+    "name": "Berufsbezeichnung",
+    "keywords": [
+      {
+        "guid": "70700623748844B282778100BD019F7F",
+        "name": "Allgemeine Hochschulreife"
+      },
+      {
+        "guid": "16B2AA1DEC154683851FD1E843CCAB20",
+        "name": "Anlagenmechaniker:in für Rohrsystemtechnik"
+      },
+      {
+        "guid": "00DD8493BA174F9EA23EE776899B4BBB",
+        "name": "Ausbildung"
+      },
+      {
+        "guid": "673900FCE67B42C297FB8FD4FE9CF83B",
+        "name": "B.A. - Betriebswirtschaftslehre Industrie"
+      },
+      {
+        "guid": "BA731BC9D6ED4A868441A441CF78477B",
+        "name": "B.Eng. - Bauingenieurwesen"
+      },
+      {
+        "guid": "08EF4ACFE60C456A8BDFD6654FAE70D5",
+        "name": "B.Eng. - Siedlungswasserwirtschaft"
+      },
+      {
+        "guid": "4B70DC2C1F9646EF98496F79598F6BA6",
+        "name": "B.Sc. - Informatik"
+      },
+      {
+        "guid": "D202B250884F4043AD60CB4EE1883C04",
+        "name": "B.Sc. - Wirtschaftsinformatik"
+      },
+      {
+        "guid": "1D9C63AA7261425EB5202198852FE310",
+        "name": "Baustelle"
+      },
+      {
+        "guid": "2243D55D8F314477A9953FF27BE0C6B9",
+        "name": "Bauzeichner:in"
+      },
+      {
+        "guid": "49D3C785845E4201A90B652C1B6A703F",
+        "name": "Berufsbild"
+      },
+      {
+        "guid": "EA319E8526ED478BB2303EECBC9097F9",
+        "name": "Berufsbildungsreife (BBR)"
+      },
+      {
+        "guid": "CFA1CCDE059E4405B9EDCE14CB3E43B9",
+        "name": "Biologie"
+      },
+      {
+        "guid": "C43C66E6D2CF48ED8363208CF46B11DB",
+        "name": "Büro"
+      },
+      {
+        "guid": "68B5DEE6E0EB4702A9D0D30C08D4D37B",
+        "name": "Chemie"
+      },
+      {
+        "guid": "B8AC05525A394A0D91772ECF7ABB9C87",
+        "name": "Deutsch"
+      },
+      {
+        "guid": "3B21F80B34F84310A59EB78A3510E8F1",
+        "name": "Duales Studium"
+      },
+      {
+        "guid": "CAF9D5D1D0264D09BD11D1164F2DD614",
+        "name": "Einstiegsqualifikation"
+      },
+      {
+        "guid": "8F85A8411773450DB06F7E6BE6DD57D5",
+        "name": "Elektroniker:in für Betriebstechnik"
+      },
+      {
+        "guid": "7881D2196A1B431681BF4649EF721942",
+        "name": "Elektrotechnik"
+      },
+      {
+        "guid": "2574969869F24113AE31419B72F4FC2D",
+        "name": "Englisch"
+      },
+      {
+        "guid": "58A70229DDFB4C33B7AB511DFBEEF4FE",
+        "name": "erweiterte Berufsbildungsreife (eBBR)"
+      },
+      {
+        "guid": "558ABE5AF84948898FD1E088B348234B",
+        "name": "Event"
+      },
+      {
+        "guid": "E304E7169E224F9581676CE572A25492",
+        "name": "Fachhochschulreife"
+      },
+      {
+        "guid": "3F649200EFCD4CEF87729769DCDEB8DA",
+        "name": "Fachinformatiker:in für Anwendungsentwicklung"
+      },
+      {
+        "guid": "02BAB60B212C43D5B7675BD0984D41A5",
+        "name": "Fachinformatiker:in für Systemintegration"
+      },
+      {
+        "guid": "C4CB7C1E715542A293FAE1B04E81EDC1",
+        "name": "Fachkraft für Abwassertechnik"
+      },
+      {
+        "guid": "0B4014ED4E6A41B1A1092BB25B9508C4",
+        "name": "Fachkraft für Rohr-, Kanal- und Industrieservice"
+      },
+      {
+        "guid": "9BCFA25CB1EE48B3AC15A9988196C313",
+        "name": "Fachkraft für Wasserversorgungs- technik"
+      },
+      {
+        "guid": "2BA4C9857D434FA6951677AECE072CEC",
+        "name": "Geografie"
+      },
+      {
+        "guid": "DBEE00FA57BC4D699728E11031491FBC",
+        "name": "Geomatiker:in"
+      },
+      {
+        "guid": "8ED0AA4F4E084D3BA5F09CAFF4E70A51",
+        "name": "Industriekaufmann/-frau"
+      },
+      {
+        "guid": "CA1F287F58204191AD13BB49C5EA335A",
+        "name": "Industriemechaniker:in"
+      },
+      {
+        "guid": "1AE3749E8ED1487684E04CC00C3B16D2",
+        "name": "Informatik"
+      },
+      {
+        "guid": "5B18AE747098448C92498F74FCC8F908",
+        "name": "Informationstechnologie (IT)"
+      },
+      {
+        "guid": "CF54ADA132004A69A27FDA20DE846A75",
+        "name": "Ingenieurwesen"
+      },
+      {
+        "guid": "EDB48DB7CE37431C8C3F07C0FE62EE64",
+        "name": "Kaufmann/-frau für Büromanagement"
+      },
+      {
+        "guid": "182073894A7B4554BE8FB059C1099EA2",
+        "name": "Mathematik"
+      },
+      {
+        "guid": "26FF8922C2AB49B2B80426E4ACEC8FA2",
+        "name": "Mechatroniker:in"
+      },
+      {
+        "guid": "63E1B35361834224BDD1C6BBC9111182",
+        "name": "Messwesen, Daten und Zeichnen"
+      },
+      {
+        "guid": "4073ECB0195A4384B45CF5D37E3090C5",
+        "name": "Metall und Umwelt"
+      },
+      {
+        "guid": "EF0E0D5A675440B98CAF7513FBFEEDD8",
+        "name": "Mittlerer Schulabschluss (MSA)"
+      },
+      {
+        "guid": "D6ADCB0F38094D4B93B5E8D564801AEF",
+        "name": "News"
+      },
+      {
+        "guid": "DDF6FEDE1900482B9998344369299626",
+        "name": "Physik"
+      },
+      {
+        "guid": "2A44DFFAFEF74246B75BD67422C25F8F",
+        "name": "Praktikum"
+      },
+      {
+        "guid": "48E2EE85A4EC4C909A6369088B8CD0BF",
+        "name": "schul. Teil der Fachhochschulreife"
+      },
+      {
+        "guid": "01CE57D060DF45EFAF5945A4A3241D87",
+        "name": "Servicefachkraft für Dialogmarketing"
+      },
+      {
+        "guid": "62F9317C38744FE090B1F6B7485272E5",
+        "name": "Wirtschaft und Verwaltung"
+      },
+      {
+        "guid": "7478E7A4175A4E88802673282D7924EB",
+        "name": "Wirtschaft-Arbeit-Technik"
+      }
+    ]
+  },
+  {
+    "guid": "3D2ED368079F47F4BC756B8EACC30653",
+    "name": "Einsatzort",
+    "keywords": [
+      {
+        "guid": "70700623748844B282778100BD019F7F",
+        "name": "Allgemeine Hochschulreife"
+      },
+      {
+        "guid": "16B2AA1DEC154683851FD1E843CCAB20",
+        "name": "Anlagenmechaniker:in für Rohrsystemtechnik"
+      },
+      {
+        "guid": "00DD8493BA174F9EA23EE776899B4BBB",
+        "name": "Ausbildung"
+      },
+      {
+        "guid": "673900FCE67B42C297FB8FD4FE9CF83B",
+        "name": "B.A. - Betriebswirtschaftslehre Industrie"
+      },
+      {
+        "guid": "BA731BC9D6ED4A868441A441CF78477B",
+        "name": "B.Eng. - Bauingenieurwesen"
+      },
+      {
+        "guid": "08EF4ACFE60C456A8BDFD6654FAE70D5",
+        "name": "B.Eng. - Siedlungswasserwirtschaft"
+      },
+      {
+        "guid": "4B70DC2C1F9646EF98496F79598F6BA6",
+        "name": "B.Sc. - Informatik"
+      },
+      {
+        "guid": "D202B250884F4043AD60CB4EE1883C04",
+        "name": "B.Sc. - Wirtschaftsinformatik"
+      },
+      {
+        "guid": "1D9C63AA7261425EB5202198852FE310",
+        "name": "Baustelle"
+      },
+      {
+        "guid": "2243D55D8F314477A9953FF27BE0C6B9",
+        "name": "Bauzeichner:in"
+      },
+      {
+        "guid": "49D3C785845E4201A90B652C1B6A703F",
+        "name": "Berufsbild"
+      },
+      {
+        "guid": "EA319E8526ED478BB2303EECBC9097F9",
+        "name": "Berufsbildungsreife (BBR)"
+      },
+      {
+        "guid": "CFA1CCDE059E4405B9EDCE14CB3E43B9",
+        "name": "Biologie"
+      },
+      {
+        "guid": "C43C66E6D2CF48ED8363208CF46B11DB",
+        "name": "Büro"
+      },
+      {
+        "guid": "68B5DEE6E0EB4702A9D0D30C08D4D37B",
+        "name": "Chemie"
+      },
+      {
+        "guid": "B8AC05525A394A0D91772ECF7ABB9C87",
+        "name": "Deutsch"
+      },
+      {
+        "guid": "3B21F80B34F84310A59EB78A3510E8F1",
+        "name": "Duales Studium"
+      },
+      {
+        "guid": "CAF9D5D1D0264D09BD11D1164F2DD614",
+        "name": "Einstiegsqualifikation"
+      },
+      {
+        "guid": "8F85A8411773450DB06F7E6BE6DD57D5",
+        "name": "Elektroniker:in für Betriebstechnik"
+      },
+      {
+        "guid": "7881D2196A1B431681BF4649EF721942",
+        "name": "Elektrotechnik"
+      },
+      {
+        "guid": "2574969869F24113AE31419B72F4FC2D",
+        "name": "Englisch"
+      },
+      {
+        "guid": "58A70229DDFB4C33B7AB511DFBEEF4FE",
+        "name": "erweiterte Berufsbildungsreife (eBBR)"
+      },
+      {
+        "guid": "558ABE5AF84948898FD1E088B348234B",
+        "name": "Event"
+      },
+      {
+        "guid": "E304E7169E224F9581676CE572A25492",
+        "name": "Fachhochschulreife"
+      },
+      {
+        "guid": "3F649200EFCD4CEF87729769DCDEB8DA",
+        "name": "Fachinformatiker:in für Anwendungsentwicklung"
+      },
+      {
+        "guid": "02BAB60B212C43D5B7675BD0984D41A5",
+        "name": "Fachinformatiker:in für Systemintegration"
+      },
+      {
+        "guid": "C4CB7C1E715542A293FAE1B04E81EDC1",
+        "name": "Fachkraft für Abwassertechnik"
+      },
+      {
+        "guid": "0B4014ED4E6A41B1A1092BB25B9508C4",
+        "name": "Fachkraft für Rohr-, Kanal- und Industrieservice"
+      },
+      {
+        "guid": "9BCFA25CB1EE48B3AC15A9988196C313",
+        "name": "Fachkraft für Wasserversorgungs- technik"
+      },
+      {
+        "guid": "2BA4C9857D434FA6951677AECE072CEC",
+        "name": "Geografie"
+      },
+      {
+        "guid": "DBEE00FA57BC4D699728E11031491FBC",
+        "name": "Geomatiker:in"
+      },
+      {
+        "guid": "8ED0AA4F4E084D3BA5F09CAFF4E70A51",
+        "name": "Industriekaufmann/-frau"
+      },
+      {
+        "guid": "CA1F287F58204191AD13BB49C5EA335A",
+        "name": "Industriemechaniker:in"
+      },
+      {
+        "guid": "1AE3749E8ED1487684E04CC00C3B16D2",
+        "name": "Informatik"
+      },
+      {
+        "guid": "5B18AE747098448C92498F74FCC8F908",
+        "name": "Informationstechnologie (IT)"
+      },
+      {
+        "guid": "CF54ADA132004A69A27FDA20DE846A75",
+        "name": "Ingenieurwesen"
+      },
+      {
+        "guid": "EDB48DB7CE37431C8C3F07C0FE62EE64",
+        "name": "Kaufmann/-frau für Büromanagement"
+      },
+      {
+        "guid": "182073894A7B4554BE8FB059C1099EA2",
+        "name": "Mathematik"
+      },
+      {
+        "guid": "26FF8922C2AB49B2B80426E4ACEC8FA2",
+        "name": "Mechatroniker:in"
+      },
+      {
+        "guid": "63E1B35361834224BDD1C6BBC9111182",
+        "name": "Messwesen, Daten und Zeichnen"
+      },
+      {
+        "guid": "4073ECB0195A4384B45CF5D37E3090C5",
+        "name": "Metall und Umwelt"
+      },
+      {
+        "guid": "EF0E0D5A675440B98CAF7513FBFEEDD8",
+        "name": "Mittlerer Schulabschluss (MSA)"
+      },
+      {
+        "guid": "D6ADCB0F38094D4B93B5E8D564801AEF",
+        "name": "News"
+      },
+      {
+        "guid": "DDF6FEDE1900482B9998344369299626",
+        "name": "Physik"
+      },
+      {
+        "guid": "2A44DFFAFEF74246B75BD67422C25F8F",
+        "name": "Praktikum"
+      },
+      {
+        "guid": "48E2EE85A4EC4C909A6369088B8CD0BF",
+        "name": "schul. Teil der Fachhochschulreife"
+      },
+      {
+        "guid": "01CE57D060DF45EFAF5945A4A3241D87",
+        "name": "Servicefachkraft für Dialogmarketing"
+      },
+      {
+        "guid": "62F9317C38744FE090B1F6B7485272E5",
+        "name": "Wirtschaft und Verwaltung"
+      },
+      {
+        "guid": "7478E7A4175A4E88802673282D7924EB",
+        "name": "Wirtschaft-Arbeit-Technik"
+      }
+    ]
+  },
+  {
+    "guid": "754836E9717F4C2F91EB913B3EE5CBC1",
+    "name": "Fachrichtung",
+    "keywords": [
+      {
+        "guid": "70700623748844B282778100BD019F7F",
+        "name": "Allgemeine Hochschulreife"
+      },
+      {
+        "guid": "16B2AA1DEC154683851FD1E843CCAB20",
+        "name": "Anlagenmechaniker:in für Rohrsystemtechnik"
+      },
+      {
+        "guid": "00DD8493BA174F9EA23EE776899B4BBB",
+        "name": "Ausbildung"
+      },
+      {
+        "guid": "673900FCE67B42C297FB8FD4FE9CF83B",
+        "name": "B.A. - Betriebswirtschaftslehre Industrie"
+      },
+      {
+        "guid": "BA731BC9D6ED4A868441A441CF78477B",
+        "name": "B.Eng. - Bauingenieurwesen"
+      },
+      {
+        "guid": "08EF4ACFE60C456A8BDFD6654FAE70D5",
+        "name": "B.Eng. - Siedlungswasserwirtschaft"
+      },
+      {
+        "guid": "4B70DC2C1F9646EF98496F79598F6BA6",
+        "name": "B.Sc. - Informatik"
+      },
+      {
+        "guid": "D202B250884F4043AD60CB4EE1883C04",
+        "name": "B.Sc. - Wirtschaftsinformatik"
+      },
+      {
+        "guid": "1D9C63AA7261425EB5202198852FE310",
+        "name": "Baustelle"
+      },
+      {
+        "guid": "2243D55D8F314477A9953FF27BE0C6B9",
+        "name": "Bauzeichner:in"
+      },
+      {
+        "guid": "49D3C785845E4201A90B652C1B6A703F",
+        "name": "Berufsbild"
+      },
+      {
+        "guid": "EA319E8526ED478BB2303EECBC9097F9",
+        "name": "Berufsbildungsreife (BBR)"
+      },
+      {
+        "guid": "CFA1CCDE059E4405B9EDCE14CB3E43B9",
+        "name": "Biologie"
+      },
+      {
+        "guid": "C43C66E6D2CF48ED8363208CF46B11DB",
+        "name": "Büro"
+      },
+      {
+        "guid": "68B5DEE6E0EB4702A9D0D30C08D4D37B",
+        "name": "Chemie"
+      },
+      {
+        "guid": "B8AC05525A394A0D91772ECF7ABB9C87",
+        "name": "Deutsch"
+      },
+      {
+        "guid": "3B21F80B34F84310A59EB78A3510E8F1",
+        "name": "Duales Studium"
+      },
+      {
+        "guid": "CAF9D5D1D0264D09BD11D1164F2DD614",
+        "name": "Einstiegsqualifikation"
+      },
+      {
+        "guid": "8F85A8411773450DB06F7E6BE6DD57D5",
+        "name": "Elektroniker:in für Betriebstechnik"
+      },
+      {
+        "guid": "7881D2196A1B431681BF4649EF721942",
+        "name": "Elektrotechnik"
+      },
+      {
+        "guid": "2574969869F24113AE31419B72F4FC2D",
+        "name": "Englisch"
+      },
+      {
+        "guid": "58A70229DDFB4C33B7AB511DFBEEF4FE",
+        "name": "erweiterte Berufsbildungsreife (eBBR)"
+      },
+      {
+        "guid": "558ABE5AF84948898FD1E088B348234B",
+        "name": "Event"
+      },
+      {
+        "guid": "E304E7169E224F9581676CE572A25492",
+        "name": "Fachhochschulreife"
+      },
+      {
+        "guid": "3F649200EFCD4CEF87729769DCDEB8DA",
+        "name": "Fachinformatiker:in für Anwendungsentwicklung"
+      },
+      {
+        "guid": "02BAB60B212C43D5B7675BD0984D41A5",
+        "name": "Fachinformatiker:in für Systemintegration"
+      },
+      {
+        "guid": "C4CB7C1E715542A293FAE1B04E81EDC1",
+        "name": "Fachkraft für Abwassertechnik"
+      },
+      {
+        "guid": "0B4014ED4E6A41B1A1092BB25B9508C4",
+        "name": "Fachkraft für Rohr-, Kanal- und Industrieservice"
+      },
+      {
+        "guid": "9BCFA25CB1EE48B3AC15A9988196C313",
+        "name": "Fachkraft für Wasserversorgungs- technik"
+      },
+      {
+        "guid": "2BA4C9857D434FA6951677AECE072CEC",
+        "name": "Geografie"
+      },
+      {
+        "guid": "DBEE00FA57BC4D699728E11031491FBC",
+        "name": "Geomatiker:in"
+      },
+      {
+        "guid": "8ED0AA4F4E084D3BA5F09CAFF4E70A51",
+        "name": "Industriekaufmann/-frau"
+      },
+      {
+        "guid": "CA1F287F58204191AD13BB49C5EA335A",
+        "name": "Industriemechaniker:in"
+      },
+      {
+        "guid": "1AE3749E8ED1487684E04CC00C3B16D2",
+        "name": "Informatik"
+      },
+      {
+        "guid": "5B18AE747098448C92498F74FCC8F908",
+        "name": "Informationstechnologie (IT)"
+      },
+      {
+        "guid": "CF54ADA132004A69A27FDA20DE846A75",
+        "name": "Ingenieurwesen"
+      },
+      {
+        "guid": "EDB48DB7CE37431C8C3F07C0FE62EE64",
+        "name": "Kaufmann/-frau für Büromanagement"
+      },
+      {
+        "guid": "182073894A7B4554BE8FB059C1099EA2",
+        "name": "Mathematik"
+      },
+      {
+        "guid": "26FF8922C2AB49B2B80426E4ACEC8FA2",
+        "name": "Mechatroniker:in"
+      },
+      {
+        "guid": "63E1B35361834224BDD1C6BBC9111182",
+        "name": "Messwesen, Daten und Zeichnen"
+      },
+      {
+        "guid": "4073ECB0195A4384B45CF5D37E3090C5",
+        "name": "Metall und Umwelt"
+      },
+      {
+        "guid": "EF0E0D5A675440B98CAF7513FBFEEDD8",
+        "name": "Mittlerer Schulabschluss (MSA)"
+      },
+      {
+        "guid": "D6ADCB0F38094D4B93B5E8D564801AEF",
+        "name": "News"
+      },
+      {
+        "guid": "DDF6FEDE1900482B9998344369299626",
+        "name": "Physik"
+      },
+      {
+        "guid": "2A44DFFAFEF74246B75BD67422C25F8F",
+        "name": "Praktikum"
+      },
+      {
+        "guid": "48E2EE85A4EC4C909A6369088B8CD0BF",
+        "name": "schul. Teil der Fachhochschulreife"
+      },
+      {
+        "guid": "01CE57D060DF45EFAF5945A4A3241D87",
+        "name": "Servicefachkraft für Dialogmarketing"
+      },
+      {
+        "guid": "62F9317C38744FE090B1F6B7485272E5",
+        "name": "Wirtschaft und Verwaltung"
+      },
+      {
+        "guid": "7478E7A4175A4E88802673282D7924EB",
+        "name": "Wirtschaft-Arbeit-Technik"
+      }
+    ]
+  },
+  {
+    "guid": "992FDB9B90A64CE4872060476353761F",
+    "name": "Qualifizierungsart",
+    "keywords": [
+      {
+        "guid": "70700623748844B282778100BD019F7F",
+        "name": "Allgemeine Hochschulreife"
+      },
+      {
+        "guid": "16B2AA1DEC154683851FD1E843CCAB20",
+        "name": "Anlagenmechaniker:in für Rohrsystemtechnik"
+      },
+      {
+        "guid": "00DD8493BA174F9EA23EE776899B4BBB",
+        "name": "Ausbildung"
+      },
+      {
+        "guid": "673900FCE67B42C297FB8FD4FE9CF83B",
+        "name": "B.A. - Betriebswirtschaftslehre Industrie"
+      },
+      {
+        "guid": "BA731BC9D6ED4A868441A441CF78477B",
+        "name": "B.Eng. - Bauingenieurwesen"
+      },
+      {
+        "guid": "08EF4ACFE60C456A8BDFD6654FAE70D5",
+        "name": "B.Eng. - Siedlungswasserwirtschaft"
+      },
+      {
+        "guid": "4B70DC2C1F9646EF98496F79598F6BA6",
+        "name": "B.Sc. - Informatik"
+      },
+      {
+        "guid": "D202B250884F4043AD60CB4EE1883C04",
+        "name": "B.Sc. - Wirtschaftsinformatik"
+      },
+      {
+        "guid": "1D9C63AA7261425EB5202198852FE310",
+        "name": "Baustelle"
+      },
+      {
+        "guid": "2243D55D8F314477A9953FF27BE0C6B9",
+        "name": "Bauzeichner:in"
+      },
+      {
+        "guid": "49D3C785845E4201A90B652C1B6A703F",
+        "name": "Berufsbild"
+      },
+      {
+        "guid": "EA319E8526ED478BB2303EECBC9097F9",
+        "name": "Berufsbildungsreife (BBR)"
+      },
+      {
+        "guid": "CFA1CCDE059E4405B9EDCE14CB3E43B9",
+        "name": "Biologie"
+      },
+      {
+        "guid": "C43C66E6D2CF48ED8363208CF46B11DB",
+        "name": "Büro"
+      },
+      {
+        "guid": "68B5DEE6E0EB4702A9D0D30C08D4D37B",
+        "name": "Chemie"
+      },
+      {
+        "guid": "B8AC05525A394A0D91772ECF7ABB9C87",
+        "name": "Deutsch"
+      },
+      {
+        "guid": "3B21F80B34F84310A59EB78A3510E8F1",
+        "name": "Duales Studium"
+      },
+      {
+        "guid": "CAF9D5D1D0264D09BD11D1164F2DD614",
+        "name": "Einstiegsqualifikation"
+      },
+      {
+        "guid": "8F85A8411773450DB06F7E6BE6DD57D5",
+        "name": "Elektroniker:in für Betriebstechnik"
+      },
+      {
+        "guid": "7881D2196A1B431681BF4649EF721942",
+        "name": "Elektrotechnik"
+      },
+      {
+        "guid": "2574969869F24113AE31419B72F4FC2D",
+        "name": "Englisch"
+      },
+      {
+        "guid": "58A70229DDFB4C33B7AB511DFBEEF4FE",
+        "name": "erweiterte Berufsbildungsreife (eBBR)"
+      },
+      {
+        "guid": "558ABE5AF84948898FD1E088B348234B",
+        "name": "Event"
+      },
+      {
+        "guid": "E304E7169E224F9581676CE572A25492",
+        "name": "Fachhochschulreife"
+      },
+      {
+        "guid": "3F649200EFCD4CEF87729769DCDEB8DA",
+        "name": "Fachinformatiker:in für Anwendungsentwicklung"
+      },
+      {
+        "guid": "02BAB60B212C43D5B7675BD0984D41A5",
+        "name": "Fachinformatiker:in für Systemintegration"
+      },
+      {
+        "guid": "C4CB7C1E715542A293FAE1B04E81EDC1",
+        "name": "Fachkraft für Abwassertechnik"
+      },
+      {
+        "guid": "0B4014ED4E6A41B1A1092BB25B9508C4",
+        "name": "Fachkraft für Rohr-, Kanal- und Industrieservice"
+      },
+      {
+        "guid": "9BCFA25CB1EE48B3AC15A9988196C313",
+        "name": "Fachkraft für Wasserversorgungs- technik"
+      },
+      {
+        "guid": "2BA4C9857D434FA6951677AECE072CEC",
+        "name": "Geografie"
+      },
+      {
+        "guid": "DBEE00FA57BC4D699728E11031491FBC",
+        "name": "Geomatiker:in"
+      },
+      {
+        "guid": "8ED0AA4F4E084D3BA5F09CAFF4E70A51",
+        "name": "Industriekaufmann/-frau"
+      },
+      {
+        "guid": "CA1F287F58204191AD13BB49C5EA335A",
+        "name": "Industriemechaniker:in"
+      },
+      {
+        "guid": "1AE3749E8ED1487684E04CC00C3B16D2",
+        "name": "Informatik"
+      },
+      {
+        "guid": "5B18AE747098448C92498F74FCC8F908",
+        "name": "Informationstechnologie (IT)"
+      },
+      {
+        "guid": "CF54ADA132004A69A27FDA20DE846A75",
+        "name": "Ingenieurwesen"
+      },
+      {
+        "guid": "EDB48DB7CE37431C8C3F07C0FE62EE64",
+        "name": "Kaufmann/-frau für Büromanagement"
+      },
+      {
+        "guid": "182073894A7B4554BE8FB059C1099EA2",
+        "name": "Mathematik"
+      },
+      {
+        "guid": "26FF8922C2AB49B2B80426E4ACEC8FA2",
+        "name": "Mechatroniker:in"
+      },
+      {
+        "guid": "63E1B35361834224BDD1C6BBC9111182",
+        "name": "Messwesen, Daten und Zeichnen"
+      },
+      {
+        "guid": "4073ECB0195A4384B45CF5D37E3090C5",
+        "name": "Metall und Umwelt"
+      },
+      {
+        "guid": "EF0E0D5A675440B98CAF7513FBFEEDD8",
+        "name": "Mittlerer Schulabschluss (MSA)"
+      },
+      {
+        "guid": "D6ADCB0F38094D4B93B5E8D564801AEF",
+        "name": "News"
+      },
+      {
+        "guid": "DDF6FEDE1900482B9998344369299626",
+        "name": "Physik"
+      },
+      {
+        "guid": "2A44DFFAFEF74246B75BD67422C25F8F",
+        "name": "Praktikum"
+      },
+      {
+        "guid": "48E2EE85A4EC4C909A6369088B8CD0BF",
+        "name": "schul. Teil der Fachhochschulreife"
+      },
+      {
+        "guid": "01CE57D060DF45EFAF5945A4A3241D87",
+        "name": "Servicefachkraft für Dialogmarketing"
+      },
+      {
+        "guid": "62F9317C38744FE090B1F6B7485272E5",
+        "name": "Wirtschaft und Verwaltung"
+      },
+      {
+        "guid": "7478E7A4175A4E88802673282D7924EB",
+        "name": "Wirtschaft-Arbeit-Technik"
+      }
+    ]
+  },
+  {
+    "guid": "95FD6E0D88A548B8B144686B18314DED",
+    "name": "Schulabschluss",
+    "keywords": [
+      {
+        "guid": "70700623748844B282778100BD019F7F",
+        "name": "Allgemeine Hochschulreife"
+      },
+      {
+        "guid": "16B2AA1DEC154683851FD1E843CCAB20",
+        "name": "Anlagenmechaniker:in für Rohrsystemtechnik"
+      },
+      {
+        "guid": "00DD8493BA174F9EA23EE776899B4BBB",
+        "name": "Ausbildung"
+      },
+      {
+        "guid": "673900FCE67B42C297FB8FD4FE9CF83B",
+        "name": "B.A. - Betriebswirtschaftslehre Industrie"
+      },
+      {
+        "guid": "BA731BC9D6ED4A868441A441CF78477B",
+        "name": "B.Eng. - Bauingenieurwesen"
+      },
+      {
+        "guid": "08EF4ACFE60C456A8BDFD6654FAE70D5",
+        "name": "B.Eng. - Siedlungswasserwirtschaft"
+      },
+      {
+        "guid": "4B70DC2C1F9646EF98496F79598F6BA6",
+        "name": "B.Sc. - Informatik"
+      },
+      {
+        "guid": "D202B250884F4043AD60CB4EE1883C04",
+        "name": "B.Sc. - Wirtschaftsinformatik"
+      },
+      {
+        "guid": "1D9C63AA7261425EB5202198852FE310",
+        "name": "Baustelle"
+      },
+      {
+        "guid": "2243D55D8F314477A9953FF27BE0C6B9",
+        "name": "Bauzeichner:in"
+      },
+      {
+        "guid": "49D3C785845E4201A90B652C1B6A703F",
+        "name": "Berufsbild"
+      },
+      {
+        "guid": "EA319E8526ED478BB2303EECBC9097F9",
+        "name": "Berufsbildungsreife (BBR)"
+      },
+      {
+        "guid": "CFA1CCDE059E4405B9EDCE14CB3E43B9",
+        "name": "Biologie"
+      },
+      {
+        "guid": "C43C66E6D2CF48ED8363208CF46B11DB",
+        "name": "Büro"
+      },
+      {
+        "guid": "68B5DEE6E0EB4702A9D0D30C08D4D37B",
+        "name": "Chemie"
+      },
+      {
+        "guid": "B8AC05525A394A0D91772ECF7ABB9C87",
+        "name": "Deutsch"
+      },
+      {
+        "guid": "3B21F80B34F84310A59EB78A3510E8F1",
+        "name": "Duales Studium"
+      },
+      {
+        "guid": "CAF9D5D1D0264D09BD11D1164F2DD614",
+        "name": "Einstiegsqualifikation"
+      },
+      {
+        "guid": "8F85A8411773450DB06F7E6BE6DD57D5",
+        "name": "Elektroniker:in für Betriebstechnik"
+      },
+      {
+        "guid": "7881D2196A1B431681BF4649EF721942",
+        "name": "Elektrotechnik"
+      },
+      {
+        "guid": "2574969869F24113AE31419B72F4FC2D",
+        "name": "Englisch"
+      },
+      {
+        "guid": "58A70229DDFB4C33B7AB511DFBEEF4FE",
+        "name": "erweiterte Berufsbildungsreife (eBBR)"
+      },
+      {
+        "guid": "558ABE5AF84948898FD1E088B348234B",
+        "name": "Event"
+      },
+      {
+        "guid": "E304E7169E224F9581676CE572A25492",
+        "name": "Fachhochschulreife"
+      },
+      {
+        "guid": "3F649200EFCD4CEF87729769DCDEB8DA",
+        "name": "Fachinformatiker:in für Anwendungsentwicklung"
+      },
+      {
+        "guid": "02BAB60B212C43D5B7675BD0984D41A5",
+        "name": "Fachinformatiker:in für Systemintegration"
+      },
+      {
+        "guid": "C4CB7C1E715542A293FAE1B04E81EDC1",
+        "name": "Fachkraft für Abwassertechnik"
+      },
+      {
+        "guid": "0B4014ED4E6A41B1A1092BB25B9508C4",
+        "name": "Fachkraft für Rohr-, Kanal- und Industrieservice"
+      },
+      {
+        "guid": "9BCFA25CB1EE48B3AC15A9988196C313",
+        "name": "Fachkraft für Wasserversorgungs- technik"
+      },
+      {
+        "guid": "2BA4C9857D434FA6951677AECE072CEC",
+        "name": "Geografie"
+      },
+      {
+        "guid": "DBEE00FA57BC4D699728E11031491FBC",
+        "name": "Geomatiker:in"
+      },
+      {
+        "guid": "8ED0AA4F4E084D3BA5F09CAFF4E70A51",
+        "name": "Industriekaufmann/-frau"
+      },
+      {
+        "guid": "CA1F287F58204191AD13BB49C5EA335A",
+        "name": "Industriemechaniker:in"
+      },
+      {
+        "guid": "1AE3749E8ED1487684E04CC00C3B16D2",
+        "name": "Informatik"
+      },
+      {
+        "guid": "5B18AE747098448C92498F74FCC8F908",
+        "name": "Informationstechnologie (IT)"
+      },
+      {
+        "guid": "CF54ADA132004A69A27FDA20DE846A75",
+        "name": "Ingenieurwesen"
+      },
+      {
+        "guid": "EDB48DB7CE37431C8C3F07C0FE62EE64",
+        "name": "Kaufmann/-frau für Büromanagement"
+      },
+      {
+        "guid": "182073894A7B4554BE8FB059C1099EA2",
+        "name": "Mathematik"
+      },
+      {
+        "guid": "26FF8922C2AB49B2B80426E4ACEC8FA2",
+        "name": "Mechatroniker:in"
+      },
+      {
+        "guid": "63E1B35361834224BDD1C6BBC9111182",
+        "name": "Messwesen, Daten und Zeichnen"
+      },
+      {
+        "guid": "4073ECB0195A4384B45CF5D37E3090C5",
+        "name": "Metall und Umwelt"
+      },
+      {
+        "guid": "EF0E0D5A675440B98CAF7513FBFEEDD8",
+        "name": "Mittlerer Schulabschluss (MSA)"
+      },
+      {
+        "guid": "D6ADCB0F38094D4B93B5E8D564801AEF",
+        "name": "News"
+      },
+      {
+        "guid": "DDF6FEDE1900482B9998344369299626",
+        "name": "Physik"
+      },
+      {
+        "guid": "2A44DFFAFEF74246B75BD67422C25F8F",
+        "name": "Praktikum"
+      },
+      {
+        "guid": "48E2EE85A4EC4C909A6369088B8CD0BF",
+        "name": "schul. Teil der Fachhochschulreife"
+      },
+      {
+        "guid": "01CE57D060DF45EFAF5945A4A3241D87",
+        "name": "Servicefachkraft für Dialogmarketing"
+      },
+      {
+        "guid": "62F9317C38744FE090B1F6B7485272E5",
+        "name": "Wirtschaft und Verwaltung"
+      },
+      {
+        "guid": "7478E7A4175A4E88802673282D7924EB",
+        "name": "Wirtschaft-Arbeit-Technik"
+      }
+    ]
+  },
+  {
+    "guid": "49BBBE924F9A48A0803EA526A87D7E45",
+    "name": "Schulfach",
+    "keywords": [
+      {
+        "guid": "70700623748844B282778100BD019F7F",
+        "name": "Allgemeine Hochschulreife"
+      },
+      {
+        "guid": "16B2AA1DEC154683851FD1E843CCAB20",
+        "name": "Anlagenmechaniker:in für Rohrsystemtechnik"
+      },
+      {
+        "guid": "00DD8493BA174F9EA23EE776899B4BBB",
+        "name": "Ausbildung"
+      },
+      {
+        "guid": "673900FCE67B42C297FB8FD4FE9CF83B",
+        "name": "B.A. - Betriebswirtschaftslehre Industrie"
+      },
+      {
+        "guid": "BA731BC9D6ED4A868441A441CF78477B",
+        "name": "B.Eng. - Bauingenieurwesen"
+      },
+      {
+        "guid": "08EF4ACFE60C456A8BDFD6654FAE70D5",
+        "name": "B.Eng. - Siedlungswasserwirtschaft"
+      },
+      {
+        "guid": "4B70DC2C1F9646EF98496F79598F6BA6",
+        "name": "B.Sc. - Informatik"
+      },
+      {
+        "guid": "D202B250884F4043AD60CB4EE1883C04",
+        "name": "B.Sc. - Wirtschaftsinformatik"
+      },
+      {
+        "guid": "1D9C63AA7261425EB5202198852FE310",
+        "name": "Baustelle"
+      },
+      {
+        "guid": "2243D55D8F314477A9953FF27BE0C6B9",
+        "name": "Bauzeichner:in"
+      },
+      {
+        "guid": "49D3C785845E4201A90B652C1B6A703F",
+        "name": "Berufsbild"
+      },
+      {
+        "guid": "EA319E8526ED478BB2303EECBC9097F9",
+        "name": "Berufsbildungsreife (BBR)"
+      },
+      {
+        "guid": "CFA1CCDE059E4405B9EDCE14CB3E43B9",
+        "name": "Biologie"
+      },
+      {
+        "guid": "C43C66E6D2CF48ED8363208CF46B11DB",
+        "name": "Büro"
+      },
+      {
+        "guid": "68B5DEE6E0EB4702A9D0D30C08D4D37B",
+        "name": "Chemie"
+      },
+      {
+        "guid": "B8AC05525A394A0D91772ECF7ABB9C87",
+        "name": "Deutsch"
+      },
+      {
+        "guid": "3B21F80B34F84310A59EB78A3510E8F1",
+        "name": "Duales Studium"
+      },
+      {
+        "guid": "CAF9D5D1D0264D09BD11D1164F2DD614",
+        "name": "Einstiegsqualifikation"
+      },
+      {
+        "guid": "8F85A8411773450DB06F7E6BE6DD57D5",
+        "name": "Elektroniker:in für Betriebstechnik"
+      },
+      {
+        "guid": "7881D2196A1B431681BF4649EF721942",
+        "name": "Elektrotechnik"
+      },
+      {
+        "guid": "2574969869F24113AE31419B72F4FC2D",
+        "name": "Englisch"
+      },
+      {
+        "guid": "58A70229DDFB4C33B7AB511DFBEEF4FE",
+        "name": "erweiterte Berufsbildungsreife (eBBR)"
+      },
+      {
+        "guid": "558ABE5AF84948898FD1E088B348234B",
+        "name": "Event"
+      },
+      {
+        "guid": "E304E7169E224F9581676CE572A25492",
+        "name": "Fachhochschulreife"
+      },
+      {
+        "guid": "3F649200EFCD4CEF87729769DCDEB8DA",
+        "name": "Fachinformatiker:in für Anwendungsentwicklung"
+      },
+      {
+        "guid": "02BAB60B212C43D5B7675BD0984D41A5",
+        "name": "Fachinformatiker:in für Systemintegration"
+      },
+      {
+        "guid": "C4CB7C1E715542A293FAE1B04E81EDC1",
+        "name": "Fachkraft für Abwassertechnik"
+      },
+      {
+        "guid": "0B4014ED4E6A41B1A1092BB25B9508C4",
+        "name": "Fachkraft für Rohr-, Kanal- und Industrieservice"
+      },
+      {
+        "guid": "9BCFA25CB1EE48B3AC15A9988196C313",
+        "name": "Fachkraft für Wasserversorgungs- technik"
+      },
+      {
+        "guid": "2BA4C9857D434FA6951677AECE072CEC",
+        "name": "Geografie"
+      },
+      {
+        "guid": "DBEE00FA57BC4D699728E11031491FBC",
+        "name": "Geomatiker:in"
+      },
+      {
+        "guid": "8ED0AA4F4E084D3BA5F09CAFF4E70A51",
+        "name": "Industriekaufmann/-frau"
+      },
+      {
+        "guid": "CA1F287F58204191AD13BB49C5EA335A",
+        "name": "Industriemechaniker:in"
+      },
+      {
+        "guid": "1AE3749E8ED1487684E04CC00C3B16D2",
+        "name": "Informatik"
+      },
+      {
+        "guid": "5B18AE747098448C92498F74FCC8F908",
+        "name": "Informationstechnologie (IT)"
+      },
+      {
+        "guid": "CF54ADA132004A69A27FDA20DE846A75",
+        "name": "Ingenieurwesen"
+      },
+      {
+        "guid": "EDB48DB7CE37431C8C3F07C0FE62EE64",
+        "name": "Kaufmann/-frau für Büromanagement"
+      },
+      {
+        "guid": "182073894A7B4554BE8FB059C1099EA2",
+        "name": "Mathematik"
+      },
+      {
+        "guid": "26FF8922C2AB49B2B80426E4ACEC8FA2",
+        "name": "Mechatroniker:in"
+      },
+      {
+        "guid": "63E1B35361834224BDD1C6BBC9111182",
+        "name": "Messwesen, Daten und Zeichnen"
+      },
+      {
+        "guid": "4073ECB0195A4384B45CF5D37E3090C5",
+        "name": "Metall und Umwelt"
+      },
+      {
+        "guid": "EF0E0D5A675440B98CAF7513FBFEEDD8",
+        "name": "Mittlerer Schulabschluss (MSA)"
+      },
+      {
+        "guid": "D6ADCB0F38094D4B93B5E8D564801AEF",
+        "name": "News"
+      },
+      {
+        "guid": "DDF6FEDE1900482B9998344369299626",
+        "name": "Physik"
+      },
+      {
+        "guid": "2A44DFFAFEF74246B75BD67422C25F8F",
+        "name": "Praktikum"
+      },
+      {
+        "guid": "48E2EE85A4EC4C909A6369088B8CD0BF",
+        "name": "schul. Teil der Fachhochschulreife"
+      },
+      {
+        "guid": "01CE57D060DF45EFAF5945A4A3241D87",
+        "name": "Servicefachkraft für Dialogmarketing"
+      },
+      {
+        "guid": "62F9317C38744FE090B1F6B7485272E5",
+        "name": "Wirtschaft und Verwaltung"
+      },
+      {
+        "guid": "7478E7A4175A4E88802673282D7924EB",
+        "name": "Wirtschaft-Arbeit-Technik"
+      }
+    ]
+  },
+  {
+    "guid": "5F4D881EAAE643F8939659B941C2ED75",
+    "name": "Seitentyp",
+    "keywords": [
+      {
+        "guid": "70700623748844B282778100BD019F7F",
+        "name": "Allgemeine Hochschulreife"
+      },
+      {
+        "guid": "16B2AA1DEC154683851FD1E843CCAB20",
+        "name": "Anlagenmechaniker:in für Rohrsystemtechnik"
+      },
+      {
+        "guid": "00DD8493BA174F9EA23EE776899B4BBB",
+        "name": "Ausbildung"
+      },
+      {
+        "guid": "673900FCE67B42C297FB8FD4FE9CF83B",
+        "name": "B.A. - Betriebswirtschaftslehre Industrie"
+      },
+      {
+        "guid": "BA731BC9D6ED4A868441A441CF78477B",
+        "name": "B.Eng. - Bauingenieurwesen"
+      },
+      {
+        "guid": "08EF4ACFE60C456A8BDFD6654FAE70D5",
+        "name": "B.Eng. - Siedlungswasserwirtschaft"
+      },
+      {
+        "guid": "4B70DC2C1F9646EF98496F79598F6BA6",
+        "name": "B.Sc. - Informatik"
+      },
+      {
+        "guid": "D202B250884F4043AD60CB4EE1883C04",
+        "name": "B.Sc. - Wirtschaftsinformatik"
+      },
+      {
+        "guid": "1D9C63AA7261425EB5202198852FE310",
+        "name": "Baustelle"
+      },
+      {
+        "guid": "2243D55D8F314477A9953FF27BE0C6B9",
+        "name": "Bauzeichner:in"
+      },
+      {
+        "guid": "49D3C785845E4201A90B652C1B6A703F",
+        "name": "Berufsbild"
+      },
+      {
+        "guid": "EA319E8526ED478BB2303EECBC9097F9",
+        "name": "Berufsbildungsreife (BBR)"
+      },
+      {
+        "guid": "CFA1CCDE059E4405B9EDCE14CB3E43B9",
+        "name": "Biologie"
+      },
+      {
+        "guid": "C43C66E6D2CF48ED8363208CF46B11DB",
+        "name": "Büro"
+      },
+      {
+        "guid": "68B5DEE6E0EB4702A9D0D30C08D4D37B",
+        "name": "Chemie"
+      },
+      {
+        "guid": "B8AC05525A394A0D91772ECF7ABB9C87",
+        "name": "Deutsch"
+      },
+      {
+        "guid": "3B21F80B34F84310A59EB78A3510E8F1",
+        "name": "Duales Studium"
+      },
+      {
+        "guid": "CAF9D5D1D0264D09BD11D1164F2DD614",
+        "name": "Einstiegsqualifikation"
+      },
+      {
+        "guid": "8F85A8411773450DB06F7E6BE6DD57D5",
+        "name": "Elektroniker:in für Betriebstechnik"
+      },
+      {
+        "guid": "7881D2196A1B431681BF4649EF721942",
+        "name": "Elektrotechnik"
+      },
+      {
+        "guid": "2574969869F24113AE31419B72F4FC2D",
+        "name": "Englisch"
+      },
+      {
+        "guid": "58A70229DDFB4C33B7AB511DFBEEF4FE",
+        "name": "erweiterte Berufsbildungsreife (eBBR)"
+      },
+      {
+        "guid": "558ABE5AF84948898FD1E088B348234B",
+        "name": "Event"
+      },
+      {
+        "guid": "E304E7169E224F9581676CE572A25492",
+        "name": "Fachhochschulreife"
+      },
+      {
+        "guid": "3F649200EFCD4CEF87729769DCDEB8DA",
+        "name": "Fachinformatiker:in für Anwendungsentwicklung"
+      },
+      {
+        "guid": "02BAB60B212C43D5B7675BD0984D41A5",
+        "name": "Fachinformatiker:in für Systemintegration"
+      },
+      {
+        "guid": "C4CB7C1E715542A293FAE1B04E81EDC1",
+        "name": "Fachkraft für Abwassertechnik"
+      },
+      {
+        "guid": "0B4014ED4E6A41B1A1092BB25B9508C4",
+        "name": "Fachkraft für Rohr-, Kanal- und Industrieservice"
+      },
+      {
+        "guid": "9BCFA25CB1EE48B3AC15A9988196C313",
+        "name": "Fachkraft für Wasserversorgungs- technik"
+      },
+      {
+        "guid": "2BA4C9857D434FA6951677AECE072CEC",
+        "name": "Geografie"
+      },
+      {
+        "guid": "DBEE00FA57BC4D699728E11031491FBC",
+        "name": "Geomatiker:in"
+      },
+      {
+        "guid": "8ED0AA4F4E084D3BA5F09CAFF4E70A51",
+        "name": "Industriekaufmann/-frau"
+      },
+      {
+        "guid": "CA1F287F58204191AD13BB49C5EA335A",
+        "name": "Industriemechaniker:in"
+      },
+      {
+        "guid": "1AE3749E8ED1487684E04CC00C3B16D2",
+        "name": "Informatik"
+      },
+      {
+        "guid": "5B18AE747098448C92498F74FCC8F908",
+        "name": "Informationstechnologie (IT)"
+      },
+      {
+        "guid": "CF54ADA132004A69A27FDA20DE846A75",
+        "name": "Ingenieurwesen"
+      },
+      {
+        "guid": "EDB48DB7CE37431C8C3F07C0FE62EE64",
+        "name": "Kaufmann/-frau für Büromanagement"
+      },
+      {
+        "guid": "182073894A7B4554BE8FB059C1099EA2",
+        "name": "Mathematik"
+      },
+      {
+        "guid": "26FF8922C2AB49B2B80426E4ACEC8FA2",
+        "name": "Mechatroniker:in"
+      },
+      {
+        "guid": "63E1B35361834224BDD1C6BBC9111182",
+        "name": "Messwesen, Daten und Zeichnen"
+      },
+      {
+        "guid": "4073ECB0195A4384B45CF5D37E3090C5",
+        "name": "Metall und Umwelt"
+      },
+      {
+        "guid": "EF0E0D5A675440B98CAF7513FBFEEDD8",
+        "name": "Mittlerer Schulabschluss (MSA)"
+      },
+      {
+        "guid": "D6ADCB0F38094D4B93B5E8D564801AEF",
+        "name": "News"
+      },
+      {
+        "guid": "DDF6FEDE1900482B9998344369299626",
+        "name": "Physik"
+      },
+      {
+        "guid": "2A44DFFAFEF74246B75BD67422C25F8F",
+        "name": "Praktikum"
+      },
+      {
+        "guid": "48E2EE85A4EC4C909A6369088B8CD0BF",
+        "name": "schul. Teil der Fachhochschulreife"
+      },
+      {
+        "guid": "01CE57D060DF45EFAF5945A4A3241D87",
+        "name": "Servicefachkraft für Dialogmarketing"
+      },
+      {
+        "guid": "62F9317C38744FE090B1F6B7485272E5",
+        "name": "Wirtschaft und Verwaltung"
+      },
+      {
+        "guid": "7478E7A4175A4E88802673282D7924EB",
+        "name": "Wirtschaft-Arbeit-Technik"
+      }
+    ]
+  }
+]
